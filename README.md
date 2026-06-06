@@ -49,17 +49,15 @@ src
 ├─ App.jsx
 ├─ App.css
 └─ main.jsx
-제작 목적
+
+## 제작 목적
 
 단순한 홈페이지 소개가 아니라 실제 문의와 상담 신청으로 이어지는 흐름을 설계하는 것을 목표로 제작했습니다.
 
-작성자
-
+## 작성자
 박기영
 
-
-저장 후:
-
+## 저장 후:
 ```bash
 git add README.md
 git commit -m "add README"
